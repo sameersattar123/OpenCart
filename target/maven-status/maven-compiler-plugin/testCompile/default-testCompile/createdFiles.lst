@@ -1,0 +1,8 @@
+testCases\BaseClass.class
+testCases\TC001_AccountRegistrationTest.class
+pageObjects\AccountLoginPage.class
+pageObjects\BasePage.class
+pageObjects\HomePage.class
+pageObjects\AccountRegisterPage.class
+testCases\TC001_AccountLoginTest.class
+bmt\AppTest.class

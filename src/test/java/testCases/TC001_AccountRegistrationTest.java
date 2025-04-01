@@ -1,40 +1,49 @@
 package testCases;
 
-import java.time.Duration;
-
-import org.apache.commons.lang3.RandomStringUtils;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
 import pageObjects.AccountRegisterPage;
 import pageObjects.HomePage;
 
-public class TC001_AccountRegistrationTest extends BaseClass{
+public class TC001_AccountRegistrationTest extends BaseClass {
 
     @Test
     public void accountRegister() {
-        HomePage hp = new HomePage(driver);
-        hp.ClickMyAccount();
-        hp.ClickRegister();
+        logger.info("Starting TC001_AccountRegistrationTest ....");
+        try {
+            HomePage hp = new HomePage(driver);
+            logger.info("Clicked on Account");
+            hp.ClickMyAccount();
+            logger.info("Clicked on Register");
+            hp.ClickRegister();
 
-        AccountRegisterPage regPage = new AccountRegisterPage(driver);
-        regPage.enterFirstName(randomString().toUpperCase());
-        regPage.enterLastName(randomString().toUpperCase());
-        regPage.enterEmail(randomString() + "@gmail.com");
-        regPage.enterTelephone(randomNumber());
+            logger.info("Write User Details");
+            AccountRegisterPage regPage = new AccountRegisterPage(driver);
+            regPage.enterFirstName(randomString().toUpperCase());
+            regPage.enterLastName(randomString().toUpperCase());
+            regPage.enterEmail(randomString() + "@gmail.com");
+            regPage.enterTelephone(randomNumber());
 
-        String password = randomAlphaNumber();
-        regPage.enterPassword(password);
-        regPage.enterConfirmPassword(password);
-        regPage.clickPolicyCheck();
-        regPage.clickContinueButton();
+            String password = randomAlphaNumber();
+            regPage.enterPassword(password);
+            regPage.enterConfirmPassword(password);
+            regPage.clickPolicyCheck();
+            regPage.clickContinueButton();
 
-        String comfrimMsg = regPage.getComfirmationMsg();
-        Assert.assertEquals(comfrimMsg, "Your Account Has Been Created!");
+            logger.info("Validating Expected Message");
+            String comfrimMsg = regPage.getComfirmationMsg();
+            if (comfrimMsg.equals("Your Account Has Been Created!")) {
+                Assert.assertTrue(true);
+            } else {
+                logger.error("Test Failed ....");
+                logger.debug("Debug ...");
+                Assert.assertTrue(false);
+            }
+        } catch (Exception e) {
+            Assert.fail();
+        }
+        logger.info("finished TC001_AccountRegistrationTest ....");
 
     }
 }
