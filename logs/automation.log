@@ -69,3 +69,106 @@
 02:25:59.857 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
 02:26:02.530 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
 02:26:02.620 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+14:52:15.837 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+14:52:15.869 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+14:52:16.332 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+14:52:17.076 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+14:52:19.206 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+14:52:19.273 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+15:14:50.275 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\master.xml"
+15:38:39.852 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+15:40:19.125 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+15:40:19.319 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+15:40:19.721 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+15:40:20.944 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+15:40:23.117 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+15:40:23.173 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+15:41:00.987 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+15:41:08.186 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+15:41:08.324 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+15:41:08.469 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+15:41:09.275 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+15:41:11.172 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+15:41:11.232 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+15:42:32.665 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+15:42:38.944 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+15:42:39.009 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+15:42:39.272 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+15:42:39.992 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+15:42:41.975 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+15:42:42.040 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+09:56:32.277 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+09:56:43.525 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+09:56:43.613 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+09:56:44.227 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+09:56:45.038 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+09:56:47.537 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+09:56:47.668 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+09:59:40.455 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+09:59:49.965 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+09:59:50.028 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+09:59:50.217 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+09:59:51.302 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+09:59:53.628 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+09:59:53.709 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:00:30.666 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+10:01:00.615 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:01:00.745 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:01:00.985 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:01:02.106 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:01:04.833 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:01:04.885 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:01:41.769 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+10:01:49.534 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:01:49.618 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:01:49.795 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:01:51.015 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:01:55.449 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:01:55.512 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:05:13.665 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+10:05:22.020 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:05:22.204 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:05:22.857 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:05:24.095 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:05:26.336 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:05:26.401 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:06:45.491 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+10:06:53.599 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:06:53.780 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:06:53.974 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:06:54.919 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:06:56.888 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:06:56.997 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:08:19.470 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\master.xml"
+10:08:27.994 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:08:28.323 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:08:29.949 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:08:30.955 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:08:33.669 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:08:33.726 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:09:10.508 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\parallelTesting.xml"
+10:09:18.668 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:09:18.856 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:09:19.070 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:09:20.133 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:09:21.400 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:09:22.184 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:09:30.328 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:09:30.328 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:09:31.522 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:09:32.616 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:09:35.069 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:09:35.135 [main] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:11:47.769 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\opencart\src\test\resources\parallelTesting.xml"
+10:12:03.450 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:12:03.562 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:12:04.565 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:12:05.396 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:13)oggger - Starting TC001_AccountRegistrationTest ....
+10:12:05.397 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:16)oggger - Clicked on Account
+10:12:05.848 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:18)oggger - Clicked on Register
+10:12:05.933 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:12:09.071 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:21)oggger - Write User Details
+10:12:09.675 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:12:10.190 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....
+10:12:15.708 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:34)oggger - Validating Expected Message
+10:12:15.766 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.accountRegister(TC001_AccountRegistrationTest.java:46)oggger - finished TC001_AccountRegistrationTest ....

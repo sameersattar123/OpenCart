@@ -44,24 +44,24 @@
       <version>5.4.0</version>
     </dependency>
 
-     <dependency>
-        <groupId>org.apache.logging.log4j</groupId>
-        <artifactId>log4j-api</artifactId>
-        <version>2.20.0</version> <!-- Use the latest version -->
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-api</artifactId>
+      <version>2.20.0</version> <!-- Use the latest version -->
     </dependency>
 
     <dependency>
-        <groupId>org.apache.logging.log4j</groupId>
-        <artifactId>log4j-core</artifactId>
-        <version>2.20.0</version> <!-- Use the latest version -->
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.20.0</version> <!-- Use the latest version -->
     </dependency>
 
     <dependency>
-        <groupId>org.apache.logging.log4j</groupId>
-        <artifactId>log4j-slf4j-impl</artifactId>
-        <version>2.20.0</version>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-slf4j-impl</artifactId>
+      <version>2.20.0</version>
     </dependency>
-    
+
     <dependency>
       <groupId>com.aventstack</groupId>
       <artifactId>extentreports</artifactId>
@@ -109,7 +109,12 @@
         </plugin>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
-          <version>2.22.1</version>
+          <version>3.0.0-M5</version> <!-- Updated version -->
+          <configuration>
+            <suiteXmlFiles>
+              <suiteXmlFile>src/test/resources/parallelTesting.xml</suiteXmlFile> <!-- Adjusted path -->
+            </suiteXmlFiles>
+          </configuration>
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
